@@ -20,4 +20,4 @@ Week 4: color manipulation, rotating eyes
 
 Week 5: neighboorhood effect
 
-![week5](https://github.com/jiaolyulu/pixelbypixel/blob/master/images/4.png)
+![week5](https://github.com/jiaolyulu/pixelbypixel/blob/master/images/5.png)
