@@ -1,6 +1,4 @@
-// The world pixel by pixel 2020
-// Daniel Rozin
-// use ragment shader to color pixels by sinew wave
+
 float mx1,my1,mx2,my2;
 boolean pMouseState=false;
 boolean MouseState;

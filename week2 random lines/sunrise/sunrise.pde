@@ -1,6 +1,4 @@
-// The world pixel by pixel 2020
-// Daniel Rozin
-// paint lines
+
 
 void setup() {
   size(1000, 800);

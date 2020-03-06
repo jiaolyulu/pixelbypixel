@@ -1,6 +1,3 @@
-// The world pixel by pixel 2020
-// Daniel Rozin
-// use fragment shader to do edge detection of live video
 
 import processing.video.*;
 
