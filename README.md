@@ -16,3 +16,8 @@ Week 3: drawing with processing, bamboo
 Week 4: color manipulation, rotating eyes
 
 ![week4](https://github.com/jiaolyulu/pixelbypixel/blob/master/images/4.png)
+
+
+Week 5: neighboorhood effect
+
+![week5](https://github.com/jiaolyulu/pixelbypixel/blob/master/images/4.png)
