@@ -21,3 +21,8 @@ Week 4: color manipulation, rotating eyes
 Week 5: neighboorhood effect
 
 ![week5](https://github.com/jiaolyulu/pixelbypixel/blob/master/images/5.png)
+
+
+Week 6: Geometric transformation
+
+![week6](https://github.com/jiaolyulu/pixelbypixel/blob/master/images/6.png)
