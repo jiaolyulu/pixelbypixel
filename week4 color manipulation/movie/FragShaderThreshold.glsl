@@ -1,6 +1,3 @@
-// The world pixel by pixel 2020
-// Daniel Rozin
-//fragment shader to threshold
 
 
 #ifdef GL_ES
